@@ -31,3 +31,5 @@ These instructions will help you set up a local development environment to run t
 
 ```bash
 git clone https://github.com/your-username/pong-game.git
+
+2. Open the project folder:
