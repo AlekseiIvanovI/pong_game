@@ -31,3 +31,19 @@ These instructions will help you set up a local development environment to run t
 
 ```bash
 git clone https://github.com/your-username/pong_game.git
+
+2. Open the project folder:
+cd pong-game
+
+3. Launch the game:
+Open index.html in your preferred web browser.
+
+
+Contributing
+I welcome contributions to enhance the game's functionality, design, or performance. If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make the necessary changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request, explaining the changes you've made.
