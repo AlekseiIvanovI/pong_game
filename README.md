@@ -23,13 +23,4 @@ The player controls the rocket to hit the ball back and forth. The goal is to ou
 - **Game Over**: Display a winner when one player reaches the winning score and allow for a game restart.
 - **Responsive Design**: Ensure the game is playable and visually appealing on different screen sizes and devices.
 
-## Getting Started
 
-These instructions will help you set up a local development environment to run the game on your machine.
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/pong-game.git
-
-2. Open the project folder:
