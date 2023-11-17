@@ -4,7 +4,7 @@ This repository contains the source code and assets for a classic Pong game buil
 
 ## Live Demo
 
-You can play the game online by visiting [https://your-pong-game-url.com](https://your-pong-game-url.com)
+You can play the game online by visiting [https://stalwart-liger-467d69.netlify.app/)
 
 ## Gameplay
 
@@ -30,20 +30,4 @@ These instructions will help you set up a local development environment to run t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/pong_game.git
-
-2. Open the project folder:
-cd pong-game
-
-3. Launch the game:
-Open index.html in your preferred web browser.
-
-
-##Contributing
-I welcome contributions to enhance the game's functionality, design, or performance. If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make the necessary changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request, explaining the changes you've made.
+git clone https://github.com/your-username/pong-game.git
