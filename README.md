@@ -39,7 +39,7 @@ cd pong-game
 Open index.html in your preferred web browser.
 
 
-Contributing
+##Contributing
 I welcome contributions to enhance the game's functionality, design, or performance. If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
